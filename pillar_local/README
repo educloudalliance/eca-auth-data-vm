@@ -1,0 +1,4 @@
+
+This directory works as an override for pillar data.
+Files placed here with the same name as in ``pillar`` directory will override them.
+
